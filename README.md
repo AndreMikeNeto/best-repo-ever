@@ -1,4 +1,4 @@
 # best-repo-ever
-This is a second update in file
+this file was updated
 
 This is a file of comments
